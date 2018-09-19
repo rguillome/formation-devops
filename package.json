@@ -1,0 +1,22 @@
+{
+  "name": "formation-devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/demo.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rguillome/formation-devops.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rguillome/formation-devops/issues"
+  },
+  "homepage": "https://github.com/rguillome/formation-devops#readme",
+  "devDependencies": {
+    "should": "^13.2.3"
+  }
+}
