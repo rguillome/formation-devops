@@ -7,7 +7,7 @@ before_install:
   - npm install -g mocha
 
 deploy:
-  provider: clevercloudpush
+  provider: script
   script: bash scripts/push.sh
   on:
     branch: master
